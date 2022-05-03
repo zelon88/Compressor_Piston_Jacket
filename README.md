@@ -25,6 +25,6 @@ DETAILED RETROFIT INSTRUCTIONS COMING SOON!
 * If you like this design consider following & sponsoring me on Github, or other social media @zelon88.
 
 # Pictures
-![Compressor_Piston_Jacket-001](https://github.com/zelon88/Compressor_Piston_Jacket/blob/main/CPJ-001_A1_Screenshot.png?raw=true)
-![Compressor_Piston_Jacket-002](https://github.com/zelon88/Compressor_Piston_Jacket/blob/main/CPJ-002_A1_Screenshot.png?raw=true)	
-![Compressor_Piston_Jacket-003](https://github.com/zelon88/Compressor_Piston_Jacket/blob/main/CPJ-003_A1_Screenshot.png?raw=true)
+![Compressor_Piston_Jacket-001](https://raw.githubusercontent.com/zelon88/Compressor_Piston_Jacket/main/CPJ-001_A1.png)
+![Compressor_Piston_Jacket-002](https://raw.githubusercontent.com/zelon88/Compressor_Piston_Jacket/main/CPJ-002_A1.png)	
+![Compressor_Piston_Jacket-003](https://raw.githubusercontent.com/zelon88/Compressor_Piston_Jacket/main/CPJ-003_A1.png)
