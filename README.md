@@ -6,7 +6,9 @@ The EverStart MAXX Model J5CPDE is an excellent little 12v automotive jump-start
 The Pittsburg Automotive "12V Portable Inflator" Model 63152, 4077, 61740, or 63109 is a 12v compatible air inflator with a steel reciprocating assembly and similar dimensions. At $9.99 the price is right for using this unit as a "repair kit" for a failed EverStart MAXX Model J5CPDE air compressor.
 
 Along with the original source code files in .scad format you will also find renderings of each component and detailed 3D printing, manufacturing & assembly instructions.
+
 DETAILED RETROFIT INSTRUCTIONS COMING SOON!
+
 ---
 
 # Features
