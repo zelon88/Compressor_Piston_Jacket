@@ -1,5 +1,5 @@
 # Compressor_Piston_Jacket
-In this repo you will find a retrofit kit for installing the piston & connecting rod from a $9.99 Pittsburg Automotive "12V Portable Inflator" Model 63152, 4077, 61740, or 63109 from Harbor Freight Tools into an EverStart MAXX Model J5CPDE air compressor.
+In this repo you will find a 3D printable retrofit kit for installing the piston & connecting rod from a $9.99 Pittsburg Automotive "12V Portable Inflator" Model 63152, 4077, 61740, or 63109 from Harbor Freight Tools into an EverStart MAXX Model J5CPDE air compressor.
 
 The EverStart MAXX Model J5CPDE is an excellent little 12v automotive jump-starter with integrated air compressor, USB ports, spotlight, and 110v AC inverter. While the quality of the unit is very high overall, the compressor uses a plastic reciprocating assembly (piston & connecting rod) which can fail over time.
 
