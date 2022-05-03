@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------
+PROJECT INFORMATION
+
+NAME:  Compressor_Piston_Jacket
+REVISION:  A1
+START DATE:  5/2/2022
+CURRENT VERSION DATE:  5/2/2022
+LICENSE:  GPLv3
+AUTHOR:  Justin Grimes (@zelon88)
+DESCRIPTION:  A piston jacket for retrofitting the EverStart MAXX Model J5CPDE air compressor
+ with the steel piston & connecting rod from a Pittsburg Automotive Model 63152, 4077, 61740, or 63109
+ "12V Portable Inflator" available for $9.99 from Harbor Freight Tools.
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+PARTS LIST
+
+1x Piston Jacket, CPJ-001 
+  2m PLA Filament (2m Total)
+
+1x Window Inserts (4pcs), CPJ-002 
+  2m PLA Filament (2m Total)
+----------------------------------------------------------------------------------------------------
