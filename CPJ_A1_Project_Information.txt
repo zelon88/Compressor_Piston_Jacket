@@ -21,3 +21,33 @@ PARTS LIST
 1x Window Inserts (4pcs), CPJ-002 
   2m PLA Filament (2m Total)
 ----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+RETROFIT INSTRUCTIONS
+
+1. Dissassemble the EverStart unit and remove the compressor assembly.
+  1a. As shown in "Compressor_Assembly_1.jpg" & "Compressor_Installed_1.jpg".
+2. Dissassemble the EverStart compressor assembly and remove any broken pieces.
+  2a. As shown in "Compressor_Components_1.jpg".
+3. Dissassemble the Pittsburg compressor unit.
+  3a. As shown in "Replacement_Parts_3.jpg"
+4. Discard the Pittsburg motor, crankcase, crankshaft, sleeve, head, and plastic housing.
+5. Ensure the Pittsburg connecting rod and wrist pin are properly assembled as a unit.
+6. Any bend in the connecting rod should angle towards the crankshaft when installed.
+7. Do not continue with modifications until the Pittspurg piston and connecting rod are assembled.
+8. Install "CPJ-001" onto the Pittsurg piston.
+9. Install "CPJ-002" (4 piees) into the side windows of "CPJ-001" using a rubber hammer.
+10. Using a file or sandpaper, smooth out the outside diamter of the entire piston friction surface.
+11. You can test slide the piston into the sleeve, but do not attach the cylinder head yet.
+12. The piston will collide with the cylinder head unless the top of the piston is clearanced.
+13. Use a file, belt sander, or grinder to grind down the top surface of the piston until it clears.
+14. Thoroughly degrease & remove contaminants from all components.
+15. Apply a thin layer of automotive grease to the inside of the sleeve.
+16. Reinstall the piston & connecting rod into the crankcase.
+17. Reinstall the sleeve over the piston.
+18. Reinstall the head onto the sleeve.
+19. Apply a small bead of automotive grease into the open side of the crankcase.
+20. Reinstall the modified EverStart compressor assembly into the EverStart unit.
+21. Do not operate the compressor unit for long periods of time.
+22. Consider making cooling improvements to the compressor portion of the EverStart rear cover.
+----------------------------------------------------------------------------------------------------

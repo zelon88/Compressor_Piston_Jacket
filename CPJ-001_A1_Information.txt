@@ -15,7 +15,7 @@ DESCRIPTION:  A piston jacket for retrofitting the EverStart MAXX Model J5CPDE a
 ----------------------------------------------------------------------------------------------------
 PART INFORMATION
 
-NAME:  Handle - Wheel
+NAME:  PISTON JACKET
 PART ID:  CPJ-001
 REVISION:  A1
 START DATE:  5/2/2022
